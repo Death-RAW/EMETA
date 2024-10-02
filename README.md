@@ -64,3 +64,16 @@ If there are missing dependencies or packages, Unity may prompt you to install t
 ```ubuntu@emeta:~/EMETA/LinuxBuild$ ./emeta.x86_64 -batchmode -nographics > server.log 2>&1 &```
 
 [You can download the server repo from here]()
+
+## CSC Poutha Information
+
+VM is hosted on [https://pouta.csc.fi/](https://pouta.csc.fi/) with the following specifications. 
+- public ip
+```193.167.189.219```
+- Configuration
+
+![image](https://github.com/user-attachments/assets/6679edc7-4785-4afa-be73-2f5f6c536674)
+![image](https://github.com/user-attachments/assets/f43e52ee-8040-4af4-b0aa-db2935e68e9c)
+
+- Allowed Ports on the server
+![image](https://github.com/user-attachments/assets/ad7d59f3-b9d2-47c3-9c08-6f117d989248)
